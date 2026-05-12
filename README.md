@@ -3,7 +3,7 @@
 
 <div align="center">
 
-[![arXiv](https://img.shields.io/badge/arXiv-XXXX.XXXXX-b31b1b)](https://arxiv.org/abs/XXXX.XXXXX)
+[![arXiv](https://img.shields.io/badge/arXiv-2605.10762-b31b1b)](https://arxiv.org/abs/2605.10762)
 
 </div>
 
@@ -180,14 +180,14 @@ If you use GridProbe in your research, please cite:
 
 
 ```bibtex
-@misc{eltahir2026gridprobe,
+@misc{eltahir2026gridprobeposteriorprobingadaptivetesttime,
       title={GridProbe: Posterior-Probing for Adaptive Test-Time Compute in Long-Video VLMs}, 
       author={Mohamed Eltahir and Lama Ayash and Ali Habibullah and Tanveer Hussain and Naeemullah Khan},
       year={2026},
-      eprint={XXXX.XXXXX},
+      eprint={2605.10762},
       archivePrefix={arXiv},
       primaryClass={cs.CV},
-      url={https://arxiv.org/abs/XXXX.XXXXX}, 
+      url={https://arxiv.org/abs/2605.10762}, 
 }
 
 ```
